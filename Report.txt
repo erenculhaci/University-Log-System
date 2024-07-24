@@ -1,0 +1,60 @@
+1 - For university_array[3] object (McLaren's University), evaluate_student(const &Student) method invoked and student3 object (Amy) sent to evaluate_student(const &Student) method. 
+
+2 - for student3 object, get_num_of_applications() method invoked.
+
+3 - for student3 object, set_num_of_applications() method invoked and get_num_of_applications() method's return value sent to set_num_of_applications().
+
+4 - for student3 object, get_gpa() method invoked.
+
+5 - for university_array[3] object, get_gpa_weight() method invoked.
+
+6 - for student3 object, get_gre() method invoked.
+
+7 - for university_array[3] object, get_gre_weight() method invoked.
+
+8 - for student3 object, get_toefl() method invoked.
+
+9 - for university_array[3] object, get_toefl_weight() method invoked.
+
+10 - for university_array[3] object, get_bias() method invoked.
+
+11 - for university_array[3] object, get_name() emthod invoked.
+
+12 - for student3 object, get_name() method invoked.
+
+13 - for student4 object (Lily), destructor ~Student invoked.
+
+14 - for student4 object, get_num_of_applications() invoked.
+
+15 - for student4 object, get_name() invoked.
+
+16 - for student3 object (Amy), destructor ~Student invoked.
+
+17 - for student3 object, get_num_of_applications() invoked.
+
+18 - for student3 object, get_name() invoked.
+
+19 - for student2 object (Ross), destructor ~Student invoked.
+
+20 - for student2 object, get_num_of_applications() invoked.
+
+21 - for student2 object, get_name() invoked.
+
+22 - for student1 object (Micheal), destructor ~Student invoked.
+
+23 - for student1 object, get_num_of_applications() invoked.
+
+24 - for student1 object, get_name() invoked.
+
+25 - Default destructor created by compiler for university_array[3], university_array[2], university_array[1], university_array[0] is invoked in this order.
+
+---------------END OF THE PROGRAM----------------
+
+
+
+
+
+
+
+
+
